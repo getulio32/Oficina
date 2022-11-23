@@ -1,0 +1,260 @@
+{
+  "clientes": [
+    null,
+    {
+      "cpf": 967856999230,
+      "email": "alfredo@gmail.com",
+      "endereco": "alto do ze rosa",
+      "nome": "alfredo gomes vieira",
+      "telefone": 45573567,
+      "veiculo": "bros"
+    },
+    {
+      "cpf": 55647545638,
+      "email": "adalberto@gmail.com",
+      "endereco": "vila holanda",
+      "nome": "adalberto silveira honorato",
+      "telefone": 45435623,
+      "veiculo": "fan"
+    },
+    {
+      "cpf": "758.934.028.50",
+      "email": "francisco@gmail.com",
+      "endereco": "ponte nova",
+      "nome": "francisco gomes will",
+      "telefone": 34543234567,
+      "veiculo": "titan"
+    },
+    {
+      "cpf": "345.832.747.98",
+      "email": "jpgam@gmail.com",
+      "endereco": "rua dos doth",
+      "nome": "joao pedro mota andrade",
+      "telefone": 235637654,
+      "veiculo": "hornet"
+    },
+    {
+      "cpf": 438732628,
+      "email": "gilber@gmail.com",
+      "endereco": "azulin",
+      "nome": "gilber alves rodrigues",
+      "telefone": 234567833,
+      "veiculo": "titan 99"
+    },
+    {
+      "cpf": 34565456579,
+      "email": "gilbver@gmail.com",
+      "endereco": "bairro de fatima",
+      "nome": "gilber de sousa desco",
+      "telefone": 9659439032,
+      "veiculo": "cb 300"
+    },
+    {
+      "cpf": 345672344,
+      "email": "alberto@gmail.com",
+      "endereco": "boa viaginha",
+      "nome": "alberto ferreira gomes",
+      "telefone": 2345678765,
+      "veiculo": "pop 100"
+    },
+    {
+      "cpf": 23453267,
+      "email": "cilvio45@gmail.com",
+      "endereco": " henrique jorge",
+      "nome": "cilvio de rodesi",
+      "telefone": 23456787,
+      "veiculo": "moto eletrica"
+    },
+    {
+      "cpf": 2357975432,
+      "email": "lala@gmail.com",
+      "endereco": "tibiquari",
+      "nome": "laisa torres dantas",
+      "telefone": 98376563,
+      "veiculo": "50tinha"
+    },
+    {
+      "cpf ": 34598712345,
+      "email": "naty@gmail.com",
+      "endereco": "alzulin",
+      "nome": "natalia fidelis campelo",
+      "telefone": 2345654332,
+      "veiculo": "biz 100"
+    }
+  ],
+  "mecanicos": [
+    null,
+    {
+      "apelido": "luquinha",
+      "contabancaria": "76543-6",
+      "email": "lucasm@gmail.com",
+      "endereco": {
+        "bairro": "alto do ze rosa",
+        "cidade": "boa viagem",
+        "log": "beco do boi",
+        "numero": 456
+      },
+      "nome": "lucas de matos sousa",
+      "telefone": 8888279252
+    },
+    {
+      "apelido": "gordin",
+      "contabancaria": "65476-8",
+      "email": "rafael@gmail.com",
+      "endereco": {
+        "bairro": "vila holanda",
+        "cidade": "boa viagem",
+        "log": "alto do mande",
+        "numero": 987
+      },
+      "nome": "rafael dos santos alves",
+      "telefone": 67864598
+    },
+    {
+      "apelido": "valtin",
+      "contabancaria": "56298-9",
+      "email": "valterma@gmail.com",
+      "endereco": {
+        "bairro": "zona rural",
+        "cidade ": "boa viagem",
+        "log": "varzea da ipueira",
+        "numero": 489
+      },
+      "nome": "valter martins justino",
+      "telefone": 98239746
+    },
+    {
+      "apelido": "rogin",
+      "contabancaria": "23417-9",
+      "email": "roginmm@gmail.com",
+      "endereco": {
+        "bairro": "anafue",
+        "cidade": "boa viagem",
+        "log": "parque do wilian",
+        "numero": 356
+      },
+      "nome": "roger magno sousa",
+      "telefone": 675885467
+    },
+    {
+      "apelido": "~",
+      "contabancaria": "09889-0",
+      "email": "mauroferreira@gmail.com",
+      "endereco": {
+        "bairro": "henrique jorge",
+        "cidade": "madalena",
+        "log ": "buracao",
+        "numero": 90
+      },
+      "nome": "mauro ferreira lacerda",
+      "telefone": 7546757433
+    },
+    {
+      "apelido": "andin",
+      "contabancaria": "67685-9",
+      "email": "andinalmeida@gmail.com",
+      "endereco": {
+        "bairro": "bairro de fatima",
+        "cidade": "boa viagem",
+        "log": "pico do morro",
+        "numero": 77
+      },
+      "nome": "anderson almeida dos santos",
+      "telefone": 99688665
+    },
+    {
+      "apelido": "jardi",
+      "contabancaria": "76854-7",
+      "email": "jardalve@gmail.com",
+      "endereco": {
+        "bairro": "vila azul",
+        "cidade": "boa viagem",
+        "log": "bar do peixi",
+        "numero": 353
+      },
+      "nome": "janderson alves tavares",
+      "telefone": 48549083
+    },
+    {
+      "apelido": "jony",
+      "contabancaria": 668447644,
+      "email": "jony@gmail.com",
+      "endereco": {
+        "bairro": "pedras",
+        "cidade": "pedra branca",
+        "log": "ruiuna",
+        "numero": 123
+      },
+      "nome": "jonathan martins justino",
+      "telefone": 57657436
+    },
+    {
+      "apelido": "-",
+      "contabancaria": "76557-0",
+      "email": "getulioi@gmail.com",
+      "endereco": {
+        "bairro": "alto do ze rosa",
+        "cidade": "boa viagem",
+        "log": "rua da praca",
+        "numero": 301
+      },
+      "nome": "getulio de sousa rodrigues",
+      "telefone": 8881499433
+    },
+    {
+      "apelido": "bide",
+      "contabancaria": "46453-0",
+      "endereco": {
+        "bairro": "zona rural",
+        "cidade": "boa viagem",
+        "log": "bom socorro",
+        "numero": 465
+      },
+      "nome": "gabriel barbosa do nascimento",
+      "telefone": 888193334
+    }
+  ],
+  "sevicos": [
+    null,
+    {
+      "nome": "troca de oleo",
+      "valor": "20,00"
+    },
+    {
+      "nome": "revisao",
+      "valor": "60,00"
+    },
+    {
+      "nome": "retifica de motor",
+      "valor": "600,00"
+    },
+    {
+      "nome": "trocar pneu",
+      "valor": "50,00"
+    },
+    {
+      "nome": "lavar moto",
+      "valor": "10,00"
+    },
+    {
+      "nome": "lavar carro",
+      "valor": "20,00"
+    },
+    {
+      "nome": "troca de kit de tracao",
+      "valor": "35,00"
+    },
+    {
+      "nome": "limpeza de carburador",
+      "valor": "13,00"
+    },
+    {
+      "nome": "regulagem de corrente",
+      "valor": "5,00"
+    },
+    {
+      "nome": " eletrica",
+      "valor": "75,00"
+    }
+  ]
+}
